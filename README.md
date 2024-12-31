@@ -4,6 +4,14 @@
 
 <h1>osTicket - LifeCycle Examples Setup</h1>
 </p>
+
+<h2>Ticket Lifecycle Stages</h2>
+
+- Intake
+- Assignment and Communication
+- Working the Issue
+- Resolution
+
 This tutorial demonstrates the creation of tickets as an end user .<br />
 
 </p>
